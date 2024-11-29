@@ -6,4 +6,4 @@ Different problems call for different loss functions
 
 
 ---
-Credits to (Kaggle)[https://github.com/kaggle]
+Credits to (https://github.com/kaggle)[Kaggle]
